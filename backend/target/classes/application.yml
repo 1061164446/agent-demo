@@ -1,4 +1,5 @@
+# 移除天气API配置 
 weather:
   api:
-    key: ${WEATHER_API_KEY:fb291d8ea60c41e49085da9ec082838e}
+    key: fb291d8ea60c41e49085da9ec082838e
     url: https://devapi.qweather.com/v7/weather/now 
