@@ -1,0 +1,17 @@
+com\chat\domain\model\Message.class
+com\chat\infrastructure\config\WebConfig.class
+com\chat\infrastructure\exception\GlobalExceptionHandler.class
+com\chat\infrastructure\service\MockAIServiceImpl.class
+com\chat\infrastructure\service\OpenAIServiceImpl.class
+com\chat\infrastructure\config\RestTemplateConfig.class
+com\chat\domain\model\MessageDTO.class
+com\chat\infrastructure\config\AIServiceConfig.class
+com\chat\infrastructure\model\ApiResponse.class
+com\chat\infrastructure\config\TongyiConfig.class
+com\chat\application\service\impl\ChatServiceImpl.class
+com\chat\ChatApplication.class
+com\chat\infrastructure\service\TongyiServiceImpl.class
+com\chat\infrastructure\controller\ChatController.class
+com\chat\application\service\ChatService.class
+com\chat\infrastructure\config\OpenAIConfig.class
+com\chat\infrastructure\service\AIChatService.class

@@ -1,0 +1,17 @@
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\exception\GlobalExceptionHandler.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\model\ApiResponse.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\domain\model\Message.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\config\OpenAIConfig.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\service\TongyiServiceImpl.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\config\AIServiceConfig.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\service\AIChatService.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\service\MockAIServiceImpl.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\application\service\impl\ChatServiceImpl.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\domain\model\MessageDTO.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\ChatApplication.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\config\WebConfig.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\controller\ChatController.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\config\TongyiConfig.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\config\RestTemplateConfig.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\application\service\ChatService.java
+D:\AI\cursor\agent1\backend\src\main\java\com\chat\infrastructure\service\OpenAIServiceImpl.java
